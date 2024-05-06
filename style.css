@@ -1,0 +1,28 @@
+.container{
+    padding-top: 20px;
+}
+.row{
+    margin-right:3px;
+}
+.col-4{
+    
+    font-size: larger;
+   padding: 2px;
+   
+}
+.logo{
+    height: 50px;
+}
+.logo img{
+    margin-left: 250px;
+    height: 60px
+}
+.card{
+    margin: 2.6px;
+    background-color: white;
+    font-weight: bold;
+    background-color: rgb(213, 246, 245);
+    font-style: italic;
+    font-size: larger;
+    
+}
